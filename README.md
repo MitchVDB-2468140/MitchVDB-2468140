@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Mitch van den Broek!  
+# Hi there, I'm Mith!  
 
 🎓 **Master's Student in Computer Science**  
 📍 **University of Hasselt (UHasselt)**  
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
 I'm a **22-year-old student** passionate about technology and innovation. Currently, I'm pursuing a **Master's degree in Computer Science at the University of Hasselt (UHasselt)**, with a strong focus on advanced topics like:  
 - **Algorithms**  
