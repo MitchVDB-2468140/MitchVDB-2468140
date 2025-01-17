@@ -1,4 +1,4 @@
-# Hi there, I'm Mith!  
+# Hi there, I'm Mitch!  
 
 🎓 **Master's Student in Computer Science**  
 📍 **University of Hasselt (UHasselt)**  
